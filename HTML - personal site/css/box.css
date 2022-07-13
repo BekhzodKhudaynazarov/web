@@ -1,0 +1,227 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.wonder {
+  margin: 160px auto 0px auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.625rem;
+}
+
+h1 {
+  font-weight: bolder;
+  margin: 0 auto 5px auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+
+h2 {
+  font-weight: normal;
+  margin: 0 auto 5px auto;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.8rem;
+}
+
+h3 {
+  text-align: left;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.10rem;
+}
+
+p {
+  font-weight: normal;
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.10rem;
+}
+
+.top {
+  background-color: white;
+}
+
+.middle {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+
+.panda {
+  width: 130px;
+  position: absolute;
+  top: 120px;
+  right: 260px;
+}
+
+.laptop {
+  margin-top: 50px
+}
+
+.eng {
+  text-decoration: underline;
+}
+
+.Bek {
+  width: 200px;
+}
+
+.profile {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.infoit {
+  width: 50%;
+  margin: 50px auto 70px auto;
+  line-height: 2;
+}
+
+.IT {
+  background-color: #000000;
+  position: relative;
+  padding: 50px;
+  color: white;
+}
+
+.clouds {
+  width: 200px;
+  position: absolute;
+  left: 100px;
+  top: 10px;
+}
+
+.robot {
+  position: absolute;
+  right: 200px;
+  top: 200px;
+  width: 150px
+}
+
+.Englishgrammer {
+  background-color: #F2F2F2;
+  width: 100%;
+  line-height: 2;
+  padding: 50px 20px;
+}
+
+.breathtaking {
+  text-align: left;
+  margin: 10px 250px;
+  line-height: 2;
+  font-size: 1.2rem;
+}
+
+.aboutielts {
+  text-align: left;
+  margin: 50px 250px;
+  line-height: 2;
+  font-size: 1.4rem;
+}
+
+.ielts {
+  background-color: #890F0D;
+  line-height: 2;
+  padding: 50px 20px;
+  color: white;
+}
+
+.girl {
+  width: 500px;
+  margin-top: 100px;
+}
+
+.teacher {
+  width: 500px;
+  margin-top: 100px;
+}
+
+.announcement {
+  text-align: center;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+}
+
+a {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  margin: 20px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #890F0D;
+}
+
+.btn {
+  background: #e01b1b;
+  background-image: -webkit-linear-gradient(top, #e01b1b, #751d1d);
+  background-image: -moz-linear-gradient(top, #e01b1b, #751d1d);
+  background-image: -ms-linear-gradient(top, #e01b1b, #751d1d);
+  background-image: -o-linear-gradient(top, #e01b1b, #751d1d);
+  background-image: linear-gradient(to bottom, #e01b1b, #751d1d);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+    font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 8px 25px 8px 25px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #16191a;
+  background-image: -webkit-linear-gradient(top, #16191a, #a2c8e0);
+  background-image: -moz-linear-gradient(top, #16191a, #a2c8e0);
+  background-image: -ms-linear-gradient(top, #16191a, #a2c8e0);
+  background-image: -o-linear-gradient(top, #16191a, #a2c8e0);
+  background-image: linear-gradient(to bottom, #16191a, #a2c8e0);
+  text-decoration: none;
+}
+
+.contact-me {
+  text-align: center;
+  padding: 80px 0 80px 0;
+}
+
+.get {
+  text-align: center;
+  padding: 5px 300px 5px;
+  line-height: 2;
+  font-size: 1.2rem;
+}
+
+.bottom-container {
+  background-color: black;
+  padding: 50px 0 40px;
+  color: white;
+}
+
+.copywrite {
+  color: white;
+  font-size: 0.8rem;
+  padding: 40px;
+}
+.gr{
+  color: black;
+  font-size: 1.5rem;
+}
+.apply{
+  font-size: 1.5rem;
+}
+.gr1:hover{
+  color: black;
+}
+.gr1{
+  font-size: 1.5rem;
+}
